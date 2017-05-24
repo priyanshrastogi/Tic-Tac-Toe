@@ -1,0 +1,23 @@
+
+.jumbotron {
+    background: #6D3FDC;
+}
+
+.game-head {
+    text-align: center;
+}
+
+td {
+    height: 125px;
+    width: 125px;
+    text-align: center;
+    border: 5px black solid;
+    font-size: 75px;
+}
+
+.copyright {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 16px;
+    color: black;
+}
